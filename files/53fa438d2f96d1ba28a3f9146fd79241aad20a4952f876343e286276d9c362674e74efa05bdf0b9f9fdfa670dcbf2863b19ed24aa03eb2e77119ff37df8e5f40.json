@@ -1,0 +1,788 @@
+{
+  "name": "flare",
+  "children": [
+    {
+      "name": "Drama",
+      "children": [
+        {
+          "name": "Forever, Interrupted",
+          "value": 0
+        },
+        {
+          "name": "Moonlight",
+          "value": 65046687
+        },
+        {
+          "name": "It Comes at Night",
+          "value": 19280931
+        },
+        {
+          "name": "mid90s",
+          "value": 9303022
+        },
+        {
+          "name": "The Zone of Interest",
+          "value": 52631884
+        },
+        {
+          "name": "Uncut Gems",
+          "value": 50023780
+        },
+        {
+          "name": "Share",
+          "value": 0
+        },
+        {
+          "name": "The Last Black Man in San Francisco",
+          "value": 2975184
+        },
+        {
+          "name": "The Humans",
+          "value": 0
+        },
+        {
+          "name": "The Tragedy of Macbeth",
+          "value": 176248
+        },
+        {
+          "name": "Causeway",
+          "value": 0
+        },
+        {
+          "name": "Sour Hearts",
+          "value": 0
+        },
+        {
+          "name": "Notes from a Young Black Chef",
+          "value": 0
+        },
+        {
+          "name": "C'mon C'mon",
+          "value": 4300000
+        },
+        {
+          "name": "The Sky Is Everywhere",
+          "value": 0
+        },
+        {
+          "name": "Past Lives",
+          "value": 28126646
+        },
+        {
+          "name": "When You Finish Saving the World",
+          "value": 0
+        },
+        {
+          "name": "The Smashing Machine",
+          "value": 0
+        },
+        {
+          "name": "On Earth We're Briefly Gorgeous",
+          "value": 0
+        },
+        {
+          "name": "The Whale",
+          "value": 55101305
+        },
+        {
+          "name": "All Dirt Roads Taste of Salt",
+          "value": 41000
+        },
+        {
+          "name": "God's Creatures",
+          "value": 0
+        },
+        {
+          "name": "The Inspection",
+          "value": 270613
+        },
+        {
+          "name": "I Saw the TV Glow",
+          "value": 5396508
+        },
+        {
+          "name": "The Governesses",
+          "value": 0
+        },
+        {
+          "name": "Earth Mama",
+          "value": 0
+        },
+        {
+          "name": "Janet Planet",
+          "value": 727621
+        },
+        {
+          "name": "Babygirl",
+          "value": 60934894
+        },
+        {
+          "name": "Mother Mary",
+          "value": 0
+        },
+        {
+          "name": "The Riders",
+          "value": 0
+        },
+        {
+          "name": "um dia com certeza",
+          "value": 0
+        },
+        {
+          "name": "Marty Supreme",
+          "value": 0
+        },
+        {
+          "name": "The Moment",
+          "value": 0
+        },
+        {
+          "name": "Untitled Simon Rex Short Film",
+          "value": 0
+        },
+        {
+          "name": "Bad Girl of Rock & Roll",
+          "value": 0
+        },
+        {
+          "name": "Birds of a Feather Flock Together",
+          "value": 20
+        },
+        {
+          "name": "The Idol",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Comedy",
+      "children": [
+        {
+          "name": "The Lovers",
+          "value": 0
+        },
+        {
+          "name": "Reggie Watts: Spatial",
+          "value": 0
+        },
+        {
+          "name": "Jerrod Carmichael: 8",
+          "value": 0
+        },
+        {
+          "name": "Eighth Grade",
+          "value": 13539709
+        },
+        {
+          "name": "Drew Michael",
+          "value": 0
+        },
+        {
+          "name": "The Death of Dick Long",
+          "value": 36586
+        },
+        {
+          "name": "Funny Pages",
+          "value": 0
+        },
+        {
+          "name": "Anthony Jeselnik: Fire in the Maternity Ward",
+          "value": 0
+        },
+        {
+          "name": "Jonty",
+          "value": 0
+        },
+        {
+          "name": "My Favorite Shapes by Julio Torres",
+          "value": 0
+        },
+        {
+          "name": "Ramy Youssef: Feelings",
+          "value": 0
+        },
+        {
+          "name": "Frankenstein's Monster's Monster, Frankenstein",
+          "value": 0
+        },
+        {
+          "name": "John Mulaney & The Sack Lunch Bunch",
+          "value": 0
+        },
+        {
+          "name": "Whitmer Thomas: The Golden One",
+          "value": 0
+        },
+        {
+          "name": "Eric Andre: Legalize Everything",
+          "value": 0
+        },
+        {
+          "name": "White Noise",
+          "value": 71476
+        },
+        {
+          "name": "Showing Up",
+          "value": 708854
+        },
+        {
+          "name": "Beau Is Afraid",
+          "value": 12337378
+        },
+        {
+          "name": "Dream Scenario",
+          "value": 14114415
+        },
+        {
+          "name": "Problemista",
+          "value": 2503154
+        },
+        {
+          "name": "Phoebe Robinson: Sorry, Harriet Tubman",
+          "value": 0
+        },
+        {
+          "name": "Mo Amer: Mohammed in Texas",
+          "value": 0
+        },
+        {
+          "name": "Ali Wong: Don Wong",
+          "value": 0
+        },
+        {
+          "name": "Wizards!",
+          "value": 0
+        },
+        {
+          "name": "Would It Kill You to Laugh? Starring Kate Berlant + John Early",
+          "value": 0
+        },
+        {
+          "name": "A Different Man",
+          "value": 1169365
+        },
+        {
+          "name": "On Becoming a Guinea Fowl",
+          "value": 0
+        },
+        {
+          "name": "Y2K",
+          "value": 4210306
+        },
+        {
+          "name": "If I Had Legs I’d Kick You",
+          "value": 0
+        },
+        {
+          "name": "Leo Reich: Literally Who Cares?!",
+          "value": 0
+        },
+        {
+          "name": "Jenny Slate: Seasoned Professional",
+          "value": 0
+        },
+        {
+          "name": "Ramy Youssef: More Feelings",
+          "value": 0
+        },
+        {
+          "name": "Peaked",
+          "value": 0
+        },
+        {
+          "name": "Untitled Raunchy Teen Comedy",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Science Fiction",
+      "children": [
+        {
+          "name": "Toru",
+          "value": 0
+        },
+        {
+          "name": "After Yang",
+          "value": 131465
+        },
+        {
+          "name": "Bride",
+          "value": 0
+        },
+        {
+          "name": "Parable of the Sower",
+          "value": 0
+        },
+        {
+          "name": "Death Stranding",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Horror",
+      "children": [
+        {
+          "name": "Bodies Bodies Bodies",
+          "value": 13900000
+        },
+        {
+          "name": "False Positive",
+          "value": 0
+        },
+        {
+          "name": "X",
+          "value": 15113105
+        },
+        {
+          "name": "Men",
+          "value": 11152071
+        },
+        {
+          "name": "Untitled Michael R. Jackson Horror Project",
+          "value": 0
+        },
+        {
+          "name": "Pearl",
+          "value": 10139416
+        },
+        {
+          "name": "The Front Room",
+          "value": 3165361
+        },
+        {
+          "name": "MaXXXine",
+          "value": 22057160
+        },
+        {
+          "name": "The Farmer's Daughters",
+          "value": 0
+        },
+        {
+          "name": "The Backrooms",
+          "value": 0
+        },
+        {
+          "name": "Heretic",
+          "value": 51913394
+        },
+        {
+          "name": "Bring Her Back",
+          "value": 0
+        },
+        {
+          "name": "Death of a Unicorn",
+          "value": 15983827
+        },
+        {
+          "name": "Talk 2 Me",
+          "value": 0
+        },
+        {
+          "name": "Opus",
+          "value": 2183539
+        },
+        {
+          "name": "The Looming",
+          "value": 0
+        },
+        {
+          "name": "Mice",
+          "value": 0
+        },
+        {
+          "name": "Untitled X Installment",
+          "value": 0
+        },
+        {
+          "name": "The Puritan II",
+          "value": 0
+        },
+        {
+          "name": "Altar",
+          "value": 0
+        },
+        {
+          "name": "The Land of Nod",
+          "value": 0
+        },
+        {
+          "name": "The Masque of the Red Death",
+          "value": 0
+        },
+        {
+          "name": "Better Run",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Romance",
+      "children": [
+        {
+          "name": "Waves",
+          "value": 2576990
+        },
+        {
+          "name": "Materialists",
+          "value": 0
+        },
+        {
+          "name": "Eternity",
+          "value": 0
+        },
+        {
+          "name": "Why Don't You Love Me?",
+          "value": 0
+        },
+        {
+          "name": "The Drama",
+          "value": 0
+        },
+        {
+          "name": "Deep Cuts",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Adventure",
+      "children": [
+        {
+          "name": "The Green Knight",
+          "value": 18887953
+        },
+        {
+          "name": "Death of Robin Hood",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Documentary",
+      "children": [
+        {
+          "name": "Occupied City",
+          "value": 0
+        },
+        {
+          "name": "NYC, 1981",
+          "value": 0
+        },
+        {
+          "name": "Val",
+          "value": 0
+        },
+        {
+          "name": "Question & Answer",
+          "value": 0
+        },
+        {
+          "name": "Stephen Curry: Underrated",
+          "value": 0
+        },
+        {
+          "name": "Look Into My Eyes",
+          "value": 0
+        },
+        {
+          "name": "Jerry Lee Lewis: Trouble in Mind",
+          "value": 0
+        },
+        {
+          "name": "This Place Rules",
+          "value": 0
+        },
+        {
+          "name": "The Last of the Sea Women",
+          "value": 0
+        },
+        {
+          "name": "The Deepest Breath",
+          "value": 0
+        },
+        {
+          "name": "The Souvenir: Reality / Fiction / Confusion / Inspiration",
+          "value": 0
+        },
+        {
+          "name": "The Making of Priscilla",
+          "value": 0
+        },
+        {
+          "name": "Open Wide",
+          "value": 0
+        },
+        {
+          "name": "My Mercury",
+          "value": 0
+        },
+        {
+          "name": "Architecton",
+          "value": 66823
+        },
+        {
+          "name": "The Sixth",
+          "value": 0
+        },
+        {
+          "name": "Cursed: The True Nature of Hereditary",
+          "value": 0
+        },
+        {
+          "name": "Does Anybody Have Any Questions: Making Stop Making Sense",
+          "value": 0
+        },
+        {
+          "name": "Dream Like Nobody's Watching",
+          "value": 0
+        },
+        {
+          "name": "Trying to drink the most orange soda in under a minute and 30 seconds",
+          "value": 5
+        },
+        {
+          "name": "Ear Worms: The Anthems, Tributes, and Testaments of I Saw the TV Glow",
+          "value": 0
+        },
+        {
+          "name": "André is an Idiot",
+          "value": 0
+        },
+        {
+          "name": "AD House Tour",
+          "value": 0
+        },
+        {
+          "name": "Deathmatch",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Western",
+      "children": [
+        {
+          "name": "Eddington",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Thriller",
+      "children": [
+        {
+          "name": "Sharper",
+          "value": 0
+        },
+        {
+          "name": "Famous",
+          "value": 0
+        },
+        {
+          "name": "Breakthrough",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Music",
+      "children": [
+        {
+          "name": "Strasbourg 1518",
+          "value": 0
+        },
+        {
+          "name": "Be My Baby",
+          "value": 0
+        },
+        {
+          "name": "Circus Maximus",
+          "value": 0
+        },
+        {
+          "name": "Dicks: The Musical",
+          "value": 1472114
+        },
+        {
+          "name": "Untitled Bruce Springsteen Movie",
+          "value": 0
+        },
+        {
+          "name": "Stop Making Sense: Deluxe Collector’s Edition",
+          "value": 0
+        },
+        {
+          "name": "Wicked: Episode IV — The Rift of Oz",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "name": "Fantasy",
+      "children": [
+        {
+          "name": "Tuesday",
+          "value": 637590
+        },
+        {
+          "name": "Elden Ring",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "History",
+      "children": [
+        {
+          "name": "The Iron Claw",
+          "value": 40130232
+        }
+      ]
+    },
+    {
+      "name": "Animation",
+      "children": [
+        {
+          "name": "Marcel the Shell with Shoes On",
+          "value": 6909209
+        },
+        {
+          "name": "Hazbin Hotel",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Family",
+      "children": [
+        {
+          "name": "The Legend of Ochi",
+          "value": 4588865
+        }
+      ]
+    },
+    {
+      "name": "War",
+      "children": [
+        {
+          "name": "Civil War",
+          "value": 126542249
+        },
+        {
+          "name": "Warfare",
+          "value": 31896828
+        }
+      ]
+    },
+    {
+      "name": "Crime",
+      "children": [
+        {
+          "name": "Love Lies Bleeding",
+          "value": 12778225
+        },
+        {
+          "name": "Highest 2 Lowest",
+          "value": 0
+        },
+        {
+          "name": "Primetime",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Unknown",
+      "children": [
+        {
+          "name": "Untitled Frank Ocean Project",
+          "value": 0
+        },
+        {
+          "name": "Untitled Julia Ducournau & A24 Project",
+          "value": 0
+        },
+        {
+          "name": "Untitled Barney the Dinosaur Film",
+          "value": 0
+        },
+        {
+          "name": "Untitled Elon Musk Biopic",
+          "value": 0
+        },
+        {
+          "name": "Checkmate",
+          "value": 0
+        },
+        {
+          "name": "The Heaven & Earth Grocery Store",
+          "value": 0
+        },
+        {
+          "name": "Tony",
+          "value": 0
+        },
+        {
+          "name": "Going Infinite",
+          "value": 0
+        },
+        {
+          "name": "life in 99",
+          "value": 0
+        },
+        {
+          "name": "Untitled Annie Baker Project",
+          "value": 0
+        },
+        {
+          "name": "Untitled Jeremy Saulnier Halloween Project",
+          "value": 0
+        },
+        {
+          "name": "Enemies",
+          "value": 0
+        },
+        {
+          "name": "The Riders",
+          "value": 0
+        },
+        {
+          "name": "Overcompensating",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Action",
+      "children": [
+        {
+          "name": "Onslaught",
+          "value": 0
+        },
+        {
+          "name": "Bushido",
+          "value": 0
+        },
+        {
+          "name": "The Peasant",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Mystery",
+      "children": [
+        {
+          "name": "The Wives",
+          "value": 0
+        },
+        {
+          "name": "Kill Bill Vol. 3",
+          "value": 0
+        }
+      ]
+    }
+  ]
+}

@@ -8,9 +8,9 @@ Click to zoom in or out.`
 
 function _chart(d3,data)
 {
-  const width = 3000;
-  const height = 3000;
-
+  const width = 5000;
+  const height = 5000
+    ;
   const pack = data => d3.pack()
     .size([width, height])
     .padding(3)
@@ -69,13 +69,13 @@ function _chart(d3,data)
     });
 
   const label = svg.append("g")
-    .style("font", "bold 40px 'Inter', 'Helvetica Neue', sans-serif")
+    .style("font", "bold 70px 'Inter', 'Helvetica Neue', sans-serif")
     .attr("pointer-events", "none")
     .attr("text-anchor", "middle")
     .selectAll("text")
     .data(root.descendants())
     .join("text")
-    .style("fill", "#CDF564")
+    .style("fill", "#ff0066")
     .style("fill-opacity", d => d.parent === root ? 1 : 0)
     .style("display", d => d.parent === root ? "inline" : "none")
     .attr("transform", d => `translate(${d.x - width / 2},${d.y - height / 2})`)
